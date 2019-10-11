@@ -7,4 +7,7 @@ function destructivelyAppendKitten(name) {
   return name_1
 }
 
-function
+function destructivelyAppendKitten(name) {
+  var name_1=name.push
+  return name_1
+}
