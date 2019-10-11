@@ -6,3 +6,5 @@ function destructivelyAppendKitten(name) {
   var name_1=name.unshift
   return name_1
 }
+
+function
