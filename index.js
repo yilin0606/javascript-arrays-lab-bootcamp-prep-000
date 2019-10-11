@@ -32,5 +32,8 @@ function prependKitten(name){
   return name_2
 }
 
+function removeLastKitten(){
+  var caats= 
+}
 
-
+function 
